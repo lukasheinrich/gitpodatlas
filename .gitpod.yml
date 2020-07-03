@@ -1,1 +1,1 @@
-image: atlas/analysisbase
+image: atlasml/ml-base:py-3.7.2
